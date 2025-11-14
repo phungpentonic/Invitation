@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
+  color: black;
   scroll-behavior: smooth;
 }
 
@@ -47,3 +48,4 @@ button {
   border-radius: 5px;
 
 }
+
