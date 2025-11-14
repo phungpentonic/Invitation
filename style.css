@@ -7,7 +7,7 @@ body {
 }
 
 .hero {
-  background: url('photos/photo1.jpg') center/cover no-repeat;
+  background: url('photos/photo1.JPG') center/cover no-repeat;
   color: black;
   text-align: center;
   padding: 100px 20px;
@@ -16,7 +16,7 @@ body {
 
 .landscape {
   position: relative;
-  background: url('photos/landscape.jpg') center/cover no-repeat;
+  background: url('photos/landscape.JPG') center/cover no-repeat;
   height: 400px;
   width: 100%;
 }
@@ -70,5 +70,6 @@ button {
   cursor: pointer;
   border-radius: 5px;
 }
+
 
 
