@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Roboto', sans-serif;
   scroll-behavior: smooth;
 }
 
@@ -45,4 +45,5 @@ button {
   font-size: 18px;
   cursor: pointer;
   border-radius: 5px;
+
 }
